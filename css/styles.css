@@ -1,0 +1,44 @@
+img {
+  float:right;
+  display: block;
+}
+
+.tourbar {
+  width: 30%;
+  float:left;
+  background-color: gray;
+}
+
+.column {
+  width: 33%;
+  float: left;
+  border: 2px solid green;
+  padding: 4px;
+  margin: auto;
+  margin: 12px;
+  margin-top: 0px;
+  /* background-color: orange; */
+  box-sizing: border-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body {
+  /* background-image: url("https://loremflickr.com/320/240"); */
+  background-image: url(file:///Users/carlosmendez/Desktop/garbage/img/ourlady.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: indianred;
+}
+
+.twitterfeed {
+  width: 33%;
+  float: right;
+}
+
+.centered-image {
+  margin: auto;
+  width: 25px;
+  height: auto;
+  display: block;
+}
